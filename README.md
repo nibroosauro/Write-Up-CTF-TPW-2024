@@ -1,4 +1,4 @@
-# CTF Write-Up of TPW 2024 🛠️🎯
+# Write-Ups of TPW CTF 2024 🚨
 
 Welcome to the **CTF Write-Up Repository**! This is a guide for solving various Capture The Flag (CTF) challenges. Intended for learning, practicing, or just curious, I've wrote detailed step-by-step solutions to help you understand and tackle each challenge.
 
@@ -52,5 +52,5 @@ In this section, you’ll analyze corrupted hex files or dissect TCP packet capt
 This repository is purely for **learning** and **practice**. It’s meant to help you sharpen your cybersecurity skills in a safe environment. Always remember: **don’t use these techniques outside CTFs or without proper authorization**. Play fair and stay ethical!
 
 ---
-Happy Hacking, Fellas! 🎉  
+<div align="center">🛡️🤖 Happy Hacking, Fellas!🕵️‍♂️🔒 </div>
 
