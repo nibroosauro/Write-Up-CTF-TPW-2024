@@ -12,7 +12,7 @@ Here’s how the repository is laid out:
 - **binex/**  
   Dive into **binary exploitation** challenges. Specifically, we cover integer overflow issues, where adding two positive numbers (`n1 > 0` and `n2 > 0`) somehow gives you a negative result. 🤔
 
-- **cryptography/**  
+- **crypto/**  
   Crack some codes with classic cryptographic techniques. This section includes challenges like brute-forcing Caesar ciphers and understanding how simple encryption works. 🔑
 
 - **forensic/**  
@@ -30,7 +30,7 @@ This section dives into **XXE Injection**—a vulnerability that can expose file
 ### Binary Exploitation (`binex`)
 Binary exploitation challenges here revolve around **integer overflow**, where numbers don’t behave as they should due to computational limits. This section explains how to detect the vulnerability and write an exploit for it.
 
-### Cryptography (`cryptography`)
+### Cryptography (`crypto`)
 Focuses on cracking encryption schemes like **Caesar ciphers**. The walkthroughs will show you how to script a brute-force attack and decode the flag.
 
 ### Forensics (`forensic`)
