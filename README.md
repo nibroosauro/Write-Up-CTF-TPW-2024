@@ -16,7 +16,7 @@ Here’s how the repository is laid out:
   Crack some codes with classic cryptographic techniques. This section includes challenges like brute-forcing Caesar ciphers and understanding how simple encryption works. 🔑
 
 - **forensic/**  
-  Analyze corrupted hex data, TCP captures, and other forensic puzzles to uncover hidden information. Put your detective skills to the test. 🕵️‍♂️
+  Analyze corrupted hex data and TCP captures to uncover hidden information. Put your detective skills to the test. 🕵️‍♂️
 
 > **Note:** Each directory comes with its own `README.md` explaining the challenge in detail **AND** includes a challenge file or source code so you can try breaking it yourself. Perfect for hands-on learning! 💻✨
 
