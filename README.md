@@ -1,4 +1,4 @@
-# Write-Ups of TPW CTF 2024 🚨
+# Write-Ups TPW CTF 2024 🚨
 
 Welcome to the **CTF Write-Up Repository**! This is a guide for solving various Capture The Flag (CTF) challenges. Intended for learning, practicing, or just curious, I've wrote detailed step-by-step solutions to help you understand and tackle each challenge.
 
